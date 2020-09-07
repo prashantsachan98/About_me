@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">About me</string>
+    <string name="name">Prashant sachan</string>
+    <string name="yellow_star">Yellow star</string>
+    <string name="bio">Hi, this is Prashant.
+    \nI\m tired of being what you want me to be
+\nFeeling so faithless, lost under the surface
+\nDont know what you are expecting of me
+\nPut under the pressure of walking in your shoes
+\n(Caught in the undertow, just caught in the undertow)
+\nEvery step that I take is another mistake to you
+\n(Caught in the undertow, just caught in the undertow)
+\n\nI have become so numb, I can\'t feel you there
+\nBecome so tired, so much more aware
+\nI am becoming this, all I want to do
+\nIs be more like me and be less like you
+\n\ncan\'t you see that you\'re smothering me?
+\nHolding too tightly, afraid to lose control
+\n Cause everything that you thought I would be
+\nHas fallen apart right in front of you
+\n(Caught in the undertow, just caught in the undertow)
+\nEvery step that I take is another mistake to you\n\n</string>
+    <string name="what_is_your_nickname">What is your nickname</string>
+    <string name="done">Done</string>
+</resources>
